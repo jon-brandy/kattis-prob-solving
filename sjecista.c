@@ -6,6 +6,10 @@
 long long int countIntersecVertices(long long int T)
 {
     //DAH RUMUS PATENNYA
+    // T - 1 / 4
+    // T - 2 / 6
+    // T - 3 / 24
+    
     return T * (T - 1) * (T - 2) * (T - 3) / 24;
 }
 
