@@ -68,4 +68,4 @@
 |Triarea|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/triarea.c)|
 |TwoStones|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/twostones.c)|
 |TwoSum|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/twosum.c)|
-|Betting|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/958f380351530a1c778389c8b76b4c127a109417/betting.py)|
+|Betting|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/958f380351530a1c778389c8b76b4c127a109417/betting.py), [C](https://github.com/jon-brandy/kattis-prob-solving/blob/ad4e73e61d4108f359a3dfd034f089563104eb1a/betting.c)|
