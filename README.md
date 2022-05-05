@@ -1,9 +1,9 @@
 # kattis-prob-solving
 ---
-|Problems|Languages|
-|:------:|:-------:|
-|Apaxiaaaaaaaaaaaans!|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/507dac95594599c6a6095cffd396df24764fade7/Source-Code/Apaxiaaaaaaaaaaaans!.c)|
-|aaah|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/aaah.c), [python](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/aaah.py)|
+|Problems|Languages|Question|
+|:------:|:-------:|:------:|
+|Apaxiaaaaaaaaaaaans!|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/Apaxiaaaaaaaaaaaans!.c),[python](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/apaxiaaans.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans)|
+|aaah|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/aaah.c), [python](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/aaah.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah)|
 |abc|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/abc.c)|
 |addTwoNumbers|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/add-two-numbers.c)|
 |areal|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/areal.c)|
