@@ -4,68 +4,68 @@
 |:------:|:-------:|:------:|
 |Apaxiaaaaaaaaaaaans!|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/Apaxiaaaaaaaaaaaans!.c),[python](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/apaxiaaans.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans)|
 |aaah|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/aaah.c), [python](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/aaah.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aaah)|
-|abc|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/abc.c)|
-|addTwoNumbers|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/add-two-numbers.c)|
-|areal|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/areal.c)|
+|abc|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/157098882bb45af18efca1bc13c41e1a4df1bc44/Source-Code/abc.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/abc)|
+|addTwoNumbers|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/add-two-numbers.c),[python](https://github.com/jon-brandy/kattis-prob-solving/blob/e99171a07b75af5a6d4349154534fcf65e1867f2/Source-Code/addtwonumbers.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|areal|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/areal.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
 |astrological sign|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/2362dc4a65e8e4574b5bb5267c01b4d4c3e61262/astrologicalsign.c)|
-|autori|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/autori.c)|
-|batter up|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/batter-up.c)|
-|bijele|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/bijele.c)|
-|cetvrta|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/cetvrta.c)|
-|chanukah|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/chanukah.c)|
+|autori|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/autori.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|batter up|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/batter-up.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|bijele|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/bijele.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|cetvrta|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/cetvrta.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|chanukah|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/chanukah.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
 |cold puter science|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/cold-puter-science.c)|
-|dice cup|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/dicecup.c)|
-|digit swap|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/digitswap.c)|
-|echo echo echo|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/echo-echo-echo.c)|
-|electrical outlets|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/electrical-outlets.c)|
-|I've been everywhere|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/everywhere.py)|
-|Eye of Sauron|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/eyeofsauron.c)|
-|faktor|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/faktor.c)|
-|filip|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/filip.c)|
-|fizzbuzz|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/fizzbuzz.c)|
-|freefood|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/freefood.c)|
-|fyi|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/fyi.c)|
-|grading|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/grading.c)|
-|Grass Seed|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/grassseed.c)|
-|Greetings2|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/greetings2.c)|
-|Heart Rate|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/heartrate.c)|
-|Hissing Microphone|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/hissingmicrophone.c)|
-|Is it halloween|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/isithalloween.c)|
-|jackolanternjuxtaposition|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/jackolanternjuxtaposition.c)|
-|Janitor Troubles|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/janitortroubles.c)|
-|Job Expenses|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/jobexpenses.c)|
-|Jumbo Javelin|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/jumbojavelin.c)|
-|Knot Knowledge|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/knotknowledge.c)|
-|Laptop Sticker|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/laptopsticker.c)|
-|Last Factorial Digit|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/lastfactorialdigit.c)|
-|Magic Trick|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/magictrick.c)|
-|Modulo|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/modulo.c)|
-|Nasty Hacks|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/nastyhacks.c)|
-|No duplicate|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/nodup.py)|
-|nsum|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/nsum.c)|
-|Number Fun|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/numberfun.c)|
-|Odd Echo|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/oddecho.c)|
-|Oddities|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/oddities.c)|
-|Pet|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/pet.c)|
-|Piece of Cake 2|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/pieceofcake2.c)|
-|Planina|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/planina.c)|
-|Pot|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/pot.c)|
-|Qaly|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/qaly.c)|
-|Quadrant|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/quadrant.c)|
-|R2|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/r2.c)|
-|Rating Problems|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/ratingproblems.c)|
-|Reverse|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/reverse.c)|
-|Reverse Binary|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/reversebinary.c)|
-|Shattered Cake|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/shatteredcake.c)|
-|Sibice|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/sibice.c)|
-|Simple Addition|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/simpleaddition.py)|
-|sjecista|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/sjecista.c)|
-|Solving for Carrots|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/solving-for-carrots.c)|
-|Sort Two Numbers|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/sorttwonumbers.c)|
-|Stuck in a time loop|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/stuck-in-a-time-loop.c)|
-|Tarifa|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/tarifa.c)|
-|Tornbygge|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/tornbygge.c)|
-|Triarea|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/triarea.c)|
-|TwoStones|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/twostones.c)|
-|TwoSum|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/twosum.c)|
-|Betting|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/958f380351530a1c778389c8b76b4c127a109417/betting.py), [C](https://github.com/jon-brandy/kattis-prob-solving/blob/ad4e73e61d4108f359a3dfd034f089563104eb1a/betting.c)|
+|dice cup|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/dicecup.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|digit swap|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/digitswap.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|echo echo echo|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/echo-echo-echo.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|electrical outlets|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/electrical-outlets.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|I've been everywhere|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/everywhere.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Eye of Sauron|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/eyeofsauron.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|faktor|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/faktor.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|filip|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/filip.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|fizzbuzz|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/fizzbuzz.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|freefood|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/freefood.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|fyi|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/fyi.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|grading|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/grading.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Grass Seed|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/grassseed.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Greetings2|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/greetings2.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Heart Rate|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/heartrate.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Hissing Microphone|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/hissingmicrophone.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Is it halloween|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/isithalloween.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|jackolanternjuxtaposition|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/jackolanternjuxtaposition.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Janitor Troubles|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/janitortroubles.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Job Expenses|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/jobexpenses.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Jumbo Javelin|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/jumbojavelin.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Knot Knowledge|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/knotknowledge.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Laptop Sticker|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/laptopsticker.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Last Factorial Digit|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/lastfactorialdigit.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Magic Trick|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/magictrick.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Modulo|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/modulo.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Nasty Hacks|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/nastyhacks.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|No duplicate|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/nodup.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|nsum|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/nsum.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Number Fun|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/numberfun.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Odd Echo|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/oddecho.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Oddities|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/oddities.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Pet|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/pet.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Piece of Cake 2|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/pieceofcake2.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Planina|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/planina.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Pot|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/pot.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Qaly|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/qaly.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Quadrant|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/quadrant.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|R2|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/r2.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Rating Problems|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/ratingproblems.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Reverse|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/reverse.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Reverse Binary|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/reversebinary.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Shattered Cake|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/shatteredcake.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Sibice|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/sibice.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Simple Addition|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/simpleaddition.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|sjecista|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/sjecista.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Solving for Carrots|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/solving-for-carrots.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Sort Two Numbers|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/sorttwonumbers.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Stuck in a time loop|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/stuck-in-a-time-loop.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Tarifa|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/tarifa.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Tornbygge|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/tornbygge.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Triarea|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/triarea.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|TwoStones|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/twostones.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|TwoSum|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/74e0a14cf724d89b1a83b1c7a06819342b0a7e9a/twosum.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
+|Betting|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/958f380351530a1c778389c8b76b4c127a109417/betting.py), [C](https://github.com/jon-brandy/kattis-prob-solving/blob/ad4e73e61d4108f359a3dfd034f089563104eb1a/betting.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/addtwonumbers)|
