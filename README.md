@@ -1,4 +1,4 @@
-# kattis-prob-solving
+# KATTIS-SOLUTION
 ---
 |No.|Problems|Languages|Question|
 |:-:|:------:|:-------:|:------:|
