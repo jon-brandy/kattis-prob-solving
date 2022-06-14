@@ -1,5 +1,4 @@
 # KATTIS-SOLUTION
----
 |No.|Problems|Languages|Question|
 |:-:|:------:|:-------:|:------:|
 |1|Apaxiaaaaaaaaaaaans!|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/Apaxiaaaaaaaaaaaans!.c),[python](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/apaxiaaans.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans)|
