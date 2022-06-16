@@ -100,5 +100,5 @@ https://en.wikipedia.org/wiki/Competitive_programming
 ```
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/70703371/173996798-60e915fa-a65a-4398-b290-f273128d9556.png" width = "300">
+  <img src = "https://user-images.githubusercontent.com/70703371/173996798-60e915fa-a65a-4398-b290-f273128d9556.png" width = "100">
 </p>
