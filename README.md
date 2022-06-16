@@ -1,6 +1,10 @@
 # What is competitive programming?
 Competitive programming is a competition that involves programmers to compete with each other in solving problems with programs in certain languages, of course in a limited time. These events or competitions are usually held via the internet or local networks. The contestants who are involved in these competitions are usually called sports programmers. The questions asked are usually in the form of math and logic problems, contestants must solve problems using the programming language of their choice. The amount and level of difficulty given also varies greatly. Usually based on the number of questions solved, time spent solving problems, program execution, program size and other factors.
 
+# Benefits
+There are many important benefits of participating in competitive programming contests, especially if your career is as a programmer. One of them is when conducting interviews for IT companies, such as Facebook, Google, and Amazon. Usually they will ask questions or problems that are more or less similar to those faced in programming competitions. But not only competitive programming, there are also questions about data structure materials and others, but getting used to solving problems around programming will make it easier, increase programming knowledge, improve programming skills and increase your confidence level when facing quite intense questions from the interviewer.
+
+
 # KATTIS-SOLUTION
 |No.|Problems|Languages|Question|
 |:-:|:------:|:-------:|:------:|
