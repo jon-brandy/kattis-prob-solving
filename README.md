@@ -71,3 +71,9 @@ Competitive programming is a competition that involves programmers to compete wi
 |65|Take Two Stones|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/twostones.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones)|
 |66|Two-Sum|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/twosum.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum)|
 |67|Betting|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/betting.py), [C](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/betting.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting)|
+
+# REFERENCES:
+```
+https://www.geeksforgeeks.org/how-to-prepare-for-competitive-programming/
+https://en.wikipedia.org/wiki/Competitive_programming
+```
