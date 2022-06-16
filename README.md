@@ -1,3 +1,6 @@
+# What is competitive programming?
+Competitive programming is a competition that involves programmers to compete with each other in solving problems with programs in certain languages, of course in a limited time. These events or competitions are usually held via the internet or local networks. The contestants who are involved in these competitions are usually called sports programmers. The questions asked are usually in the form of math and logic problems, contestants must solve problems using the programming language of their choice. The amount and level of difficulty given also varies greatly. Usually based on the number of questions solved, time spent solving problems, program execution, program size and other factors.
+
 # KATTIS-SOLUTION
 |No.|Problems|Languages|Question|
 |:-:|:------:|:-------:|:------:|
