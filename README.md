@@ -23,6 +23,13 @@ There are many important benefits of participating in competitive programming co
 </details>
 
 # My kattis solution
+
+> CLICK THE BUTTON TO VIEW!
+
+<details>
+<summary> CLICK HERE </summary>
+<br>
+
 |No.|Problems|Languages|Question|
 |:-:|:------:|:-------:|:------:|
 |1|Apaxiaaaaaaaaaaaans!|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/Apaxiaaaaaaaaaaaans!.c),[python](https://github.com/jon-brandy/kattis-prob-solving/blob/ec8e728ab02c702d147ae1a7304a95cf6b34ef26/Source-Code/apaxiaaans.py)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/apaxiaaans)|
@@ -92,6 +99,8 @@ There are many important benefits of participating in competitive programming co
 |65|Take Two Stones|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/twostones.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twostones)|
 |66|Two-Sum|[C](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/twosum.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/twosum)|
 |67|Betting|[python](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/betting.py), [C](https://github.com/jon-brandy/kattis-prob-solving/blob/6b33579cbd0d447bb130bc960f72618801899a74/Source-Code/betting.c)|[![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/betting)|
+
+</details>
 
 # REFERENCES:
 ```
