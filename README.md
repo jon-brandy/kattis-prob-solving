@@ -107,7 +107,3 @@ There are many important benefits of participating in competitive programming co
 https://www.geeksforgeeks.org/how-to-prepare-for-competitive-programming/
 https://en.wikipedia.org/wiki/Competitive_programming
 ```
-
-<p align="center">
-  <img src = "https://user-images.githubusercontent.com/70703371/174287271-2f0b52bf-3fe1-4b69-bcc7-dcce65957436.png" width = "100">
-</p>
