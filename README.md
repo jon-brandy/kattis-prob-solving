@@ -24,6 +24,7 @@ There are many important benefits of participating in competitive programming co
 
 # My kattis solution
 
+
 > CLICK THE BUTTON TO VIEW!
 
 <details>
